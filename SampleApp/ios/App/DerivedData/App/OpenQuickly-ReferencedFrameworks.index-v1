@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Foundation</string>
+	<string>CommonCrypto</string>
+	<string>AppKit</string>
+	<string>Dispatch</string>
+	<string>WebKit</string>
+	<string>foundation</string>
+	<string>libkern</string>
+	<string>SafariServices</string>
+	<string>Cordova</string>
+	<string>os</string>
+	<string>netinet</string>
+	<string>CapacitorCordova</string>
+	<string>sys</string>
+	<string>UIKit</string>
+	<string>Photos</string>
+	<string>UserNotifications</string>
+	<string>SystemConfiguration</string>
+	<string>CoreLocation</string>
+	<string>net</string>
+	<string>Capacitor</string>
+	<string>urls</string>
+	<string>MobileCoreServices</string>
+	<string>AudioToolbox</string>
+	<string>GCDWebServer</string>
+	<string>objc</string>
+</array>
+</plist>
